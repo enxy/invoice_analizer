@@ -12,7 +12,8 @@ TEMPLATES = read_templates(TPL_DIR)
 ANALIZED_DATA = []
 
 for invoice in os.listdir(INVOICES_DIR):
-    result = extract_data(os.path.join(INVOICES_DIR, invoice), templates=TEMPLATES)
-    ANALIZED_DATA.append(analize_data(result))
+    if invoice.endswith('pdf'):
+        result = extract_data(os.path.join(INVOICES_DIR, invoice), templates=TEMPLATES)
+        ANALIZED_DATA.append(analize_data(result))
 
 print(ANALIZED_DATA)

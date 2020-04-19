@@ -1,0 +1,288 @@
+{
+   "date":"14-03-2020",
+   "purchaser":"Tomasz Nowak",
+   "issuer":"Meble Tapicerowane",
+   "currency":"PLN",
+   "lines":[
+      {
+         "qty":1.0,
+         "discount":"",
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Sofa J211C",
+         "unit":"szt.",
+         "tax_rate":0.23,
+         "gross_value":2214.0,
+         "net_value":1800.0,
+         "unit_price":1800.0
+      },
+      {
+         "qty":2.0,
+         "discount":"",
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Fotel GK667",
+         "unit":"szt.",
+         "tax_rate":0.23,
+         "gross_value":858.54,
+         "net_value":698.0,
+         "unit_price":349.0
+      },
+      {
+         "qty":6.0,
+         "discount":"",
+         "PKWiU":"",
+         "line_no":"3",
+         "description":"Krzesła Dębowe Agata",
+         "unit":"szt.",
+         "tax_rate":0.23,
+         "gross_value":1808.1,
+         "net_value":1470.0,
+         "unit_price":245.0
+      }
+   ],
+   "desc":"Invoice extracted using template with keywords: brutto, W tym"
+},
+{
+   "date":"29.3.2020",
+   "purchaser":"Mariusz Anzel",
+   "issuer":"Tomasz Nowak",
+   "currency":"PLN",
+   "lines":[
+      {
+         "qty":1.0,
+         "discount":0.4557,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Kanał odpływowy",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":8.52,
+         "net_value":6.93,
+         "unit_price":6.93
+      },
+      {
+         "qty":1.0,
+         "discount":0.1,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Zestaw akcesoriów do kanału",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":25.57,
+         "net_value":20.79,
+         "unit_price":20.79
+      },
+      {
+         "qty":2.0,
+         "discount":0.2,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Drabina wielofunkcyjna",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":462.48,
+         "net_value":376.0,
+         "unit_price":188.0
+      },
+      {
+         "qty":5.0,
+         "discount":0.1,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Taczka ogrodowa",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":702.94,
+         "net_value":571.5,
+         "unit_price":114.3
+      },
+      {
+         "qty":4.0,
+         "discount":0.0,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Wałek do spoinowania",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":189.91,
+         "net_value":154.4,
+         "unit_price":38.6
+      },
+      {
+         "qty":1.0,
+         "discount":0.0,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Sito budowlane z podporą",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":137.76,
+         "net_value":112.0,
+         "unit_price":112.0
+      },
+      {
+         "qty":10.0,
+         "discount":0.0,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Worek polipropylenowy 600 x 1000 mm",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":25.58,
+         "net_value":20.8,
+         "unit_price":2.08
+      },
+      {
+         "qty":1.0,
+         "discount":0.1,
+         "PKWiU":"",
+         "line_no":"",
+         "description":"Rusztowanie drabinowe Drabest",
+         "unit":"zł",
+         "tax_rate":0.23,
+         "gross_value":353.01,
+         "net_value":287.0,
+         "unit_price":287.0
+      }
+   ],
+   "desc":"Invoice extracted using template with keywords: brutto, W tym"
+},
+{
+   "date":"18-04-2020",
+   "purchaser":"Kwiatowa 34",
+   "issuer":"Tomasz Nowak",
+   "currency":"PLN",
+   "lines":[
+      {
+         "qty":2.0,
+         "discount":"",
+         "PKWiU":"1.11.23",
+         "line_no":"1",
+         "description":"Zaprawa murarska",
+         "unit":"kg",
+         "tax_rate":0.23,
+         "gross_value":22.48,
+         "net_value":18.28,
+         "unit_price":9.14
+      },
+      {
+         "qty":4.0,
+         "discount":"",
+         "PKWiU":"1.11.23",
+         "line_no":"2",
+         "description":"Silikon budowlany",
+         "unit":"szt.",
+         "tax_rate":0.23,
+         "gross_value":49.1,
+         "net_value":39.92,
+         "unit_price":9.98
+      },
+      {
+         "qty":6.0,
+         "discount":"",
+         "PKWiU":"1.11.23",
+         "line_no":"3",
+         "description":"Grunk budowlany",
+         "unit":"kg",
+         "tax_rate":0.23,
+         "gross_value":147.45,
+         "net_value":119.88,
+         "unit_price":19.98
+      },
+      {
+         "qty":3.0,
+         "discount":"",
+         "PKWiU":"1.11.23",
+         "line_no":"4",
+         "description":"Podkład wzmacniający",
+         "unit":"szt.",
+         "tax_rate":0.23,
+         "gross_value":542.43,
+         "net_value":441.0,
+         "unit_price":147.0
+      },
+      {
+         "qty":5.0,
+         "discount":"",
+         "PKWiU":"1.11.23",
+         "line_no":"",
+         "description":"Rura kanalizacyjna zewnętrzna",
+         "unit":"szt.",
+         "tax_rate":0.23,
+         "gross_value":122.88,
+         "net_value":99.9,
+         "unit_price":19.98
+      },
+      {
+         "qty":2.0,
+         "discount":"",
+         "PKWiU":"1.11.23",
+         "line_no":"6",
+         "description":"Kolano kanalizacyjne",
+         "unit":"szt.",
+         "tax_rate":0.23,
+         "gross_value":45.51,
+         "net_value":37.0,
+         "unit_price":18.5
+      }
+   ],
+   "desc":"Invoice extracted using template with keywords: brutto, W tym"
+},
+{
+   "date":"2020-03-29",
+   "purchaser":"POLSKA Sp",
+   "issuer":"CASTORAMA POLSKA",
+   "currency":"PLN",
+   "lines":[
+      {
+         "qty":2.0,
+         "discount":0.05,
+         "PKWiU":"",
+         "line_no":"1",
+         "description":"Wykladzina podlogowa PCV",
+         "unit":"m",
+         "tax_rate":0.23,
+         "gross_value":56.09,
+         "net_value":45.6,
+         "unit_price":22.8
+      },
+      {
+         "qty":3.0,
+         "discount":0.0,
+         "PKWiU":"",
+         "line_no":"2",
+         "description":"Tasma malarska",
+         "unit":"opak",
+         "tax_rate":0.23,
+         "gross_value":59.0,
+         "net_value":47.97,
+         "unit_price":15.99
+      },
+      {
+         "qty":30.0,
+         "discount":0.0,
+         "PKWiU":"",
+         "line_no":"3",
+         "description":"Łącznik krzyżowy",
+         "unit":"szt",
+         "tax_rate":0.23,
+         "gross_value":10.33,
+         "net_value":8.4,
+         "unit_price":0.28
+      },
+      {
+         "qty":2.0,
+         "discount":0.1,
+         "PKWiU":"",
+         "line_no":"4",
+         "description":"Farba Decoral",
+         "unit":"l",
+         "tax_rate":0.23,
+         "gross_value":76.38,
+         "net_value":62.1,
+         "unit_price":31.05
+      }
+   ],
+   "desc":"Invoice extracted using template with keywords: brutto, W tym"
+}
